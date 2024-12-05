@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "outDir": "js",
+    "strict": true,
+    "moduleDetection": "force"
+  },
+  "include": ["src"]
+}
